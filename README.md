@@ -9,6 +9,9 @@
   LinkedIn - in/Jacob-Yero
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
+
   I've been running half-marathons across the country (US)
+  
   I'm building an arcade machine around a couple Sony PVM CRT monitors
+
   If you've been on a cruize, you may have used an app I've helped build
